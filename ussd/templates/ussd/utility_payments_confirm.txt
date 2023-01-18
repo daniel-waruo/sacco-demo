@@ -1,0 +1,3 @@
+Pay Utility of Ksh.{{amount}} to utility - {{utility}}
+1. Yes
+2. No

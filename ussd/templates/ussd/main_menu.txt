@@ -1,0 +1,7 @@
+Kingdom Sacco Services
+1. Account inquiry
+2. Withdraw
+3. Send Money
+4. Buy Airtime
+5. Mini Statement
+6. Utility Payments

@@ -1,0 +1,1 @@
+Payment has been initiated. Please enter you M-Pesa pin on the upcoming pop-up and await success status.

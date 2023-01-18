@@ -1,0 +1,3 @@
+Buy airtime of Ksh.{{amount}} for phone {{phone}}
+1. Yes
+2. No

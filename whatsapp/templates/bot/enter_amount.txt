@@ -1,0 +1,4 @@
+
+Enter the amount of money you want to pay to *{{organization_name}}*.
+
+_Please enter numerical input e.g 1000 ,4000_
